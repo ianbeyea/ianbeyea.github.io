@@ -1,0 +1,14 @@
+   
+   #deuce  {
+       width: 400px;
+       height: 300px;
+       border-radius: 150px;
+       background: url("http://www.webdesign.org/img_articles/14338/qwqfjjyxxbmp5l1adxku.jpg");
+       border-color: black;
+       background-color: black;
+       font-size:44px;
+       
+   }
+   body{
+       background-color: rgb(191, 189, 189);
+   }
